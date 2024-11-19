@@ -1,0 +1,16 @@
+[project]
+name = "airflow-multiple-cron-timetable"
+authors = [
+    {name = "Zakariah Nuccio", email = "zak.nuccio@crugroup.com"},
+    {name = "Rokeeb Akomolafe", email = "rokeeb.akomolafe@crugroup.com"},
+]
+description = "Airflow timetable that combined multiple cron schedules together"
+requires-python = ">=3.10"
+version = "0.1.0"
+
+dependencies = [
+    "airflow>=2.7.1",
+]
+
+[tool.black]
+line-length = 120
