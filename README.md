@@ -1,5 +1,5 @@
 # airflow_multiple_cron_timetable
-Airflow timetable for combining multiple cron schedules.
+Airflow plugin for combining multiple cron schedules together.
 
 ## Timetables
 ### MultipleCronTimetable
